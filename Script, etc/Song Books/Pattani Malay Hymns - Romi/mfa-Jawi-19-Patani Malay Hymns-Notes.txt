@@ -1,0 +1,31 @@
+
+Jawi-19-Patani Malay Hymns
+
+This is a booklet of hymns in Patani (aka Jawi, language code mfa) in Roman typescript.
+
+The booklet consists of:
+
+1. Editorial information.
+
+2. Hymns 1-79.
+
+3. Hymns 80-95 in the manner of a supplement, which is bound in, but on poorer paper and poorer quality typescript.
+
+4. Indexes.
+
+It is difficult to reproduce hymns 80-95 legibly when scanned in black and white, but these pages are somewhat clearer when scanned as grayscale pages.
+
+Therefore, two files have been produced:
+
+1. mfa-Jawi-19-Patani Malay Hymns.pdf
+
+	This black and white file is small in size, but hymns 80-95 are very poor.
+
+
+2. mfa-Jawi-19-Patani Malay Hymns-ver2(hymns 80-95 in grayscale).pdf
+
+	This file is about twelve times larger than '1', but hymns 80-95 are produced in grayscale form and are just about readable.
+
+JL 
+28 March 2018
+
